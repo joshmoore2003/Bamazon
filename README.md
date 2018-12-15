@@ -14,6 +14,21 @@
 
 ![alt text](https://raw.githubusercontent.com/joshmoore2003/Bamazon/master/screenshots/Bamazon%20Screenshot%201.JPG)
 
+![alt text](https://raw.githubusercontent.com/joshmoore2003/Bamazon/master/screenshots/Bamazon%20Screenshot%202.JPG)
+
+![alt text](https://raw.githubusercontent.com/joshmoore2003/Bamazon/master/screenshots/Bamazon%20Screenshot%203.JPG)
+
+![alt text](https://raw.githubusercontent.com/joshmoore2003/Bamazon/master/screenshots/Bamazon%20Screenshot%204.JPG)
+
 #### Assignment
 
 * This application is an [assignment](https://github.com/UCF-Coding-Boot-Camp/01-2017-VW-Class-Content/blob/master/Homework/Week-12/homework_instructions.md "Homework #12") excecuted by [Robert Lester,](https://github.com/Roblester09 "Robert Lester GitHub") for UCF Coding Bootcamp, Spring Cohort 2017.
+
+## Built With
+
+* Visual Studio Code
+* MySQL Workbench
+
+## Author
+
+* [Joshua Moore](https://github.com/joshmoore2003)
