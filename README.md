@@ -12,7 +12,7 @@
 
 #### Demo
 
-[![Bamazon Video Demo](http://img.youtube.com/vi/WKIaSnvbO5w/0.jpg)](https://youtu.be/msDRw8Hhexo "Bamazon Demo")
+![alt text](https://raw.githubusercontent.com/joshmoore2003/Bamazon/master/screenshots/Bamazon%20Screenshot%201.JPG)
 
 #### Assignment
 
